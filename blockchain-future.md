@@ -1,6 +1,7 @@
 # Chapter 1
 
 "Cha-ching!" chirped her phone.
+
 Her dad used to complain when she was younger about feeling like a "cog in the corporate machine" but not a lot of people
 these days use that phrase anymore.
 Must have something to do with literally having a robot for a boss, she mused.
@@ -70,4 +71,4 @@ so she relaxed her guard and accepted the drink with a practiced smile.
 
 "I love Musketon so far!" Jeric exclaimed halfheartedly, "Not as cool as New Hongkong, but I like the small city vibe here."
 
-"Yeah, I love this city the most of any on Mars." she lied, having not been to any other city, "There's just more variety here."
+"Yeah, I love this city the most of any on Mars." she lied, having not been anywhere else, "There's just more variety here."
